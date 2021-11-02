@@ -1,0 +1,41 @@
+Title: Facebook hosts
+Updated: November 2, 2021
+
+127.0.0.1 apps.facebook.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 facebook.com
+127.0.0.1 ru-ru.facebook.com
+127.0.0.1 nl-nl.facebook.com
+127.0.0.1 nl-be.facebook.com
+127.0.0.1 fbcdn.com
+127.0.0.1 fbsbx.com
+127.0.0.1 fbcdn.net
+127.0.0.1 facebook.net
+127.0.0.1 facebook.com.edgesuite.net
+127.0.0.1 facebook.com.edgekey.net
+127.0.0.1 tfbnw.net
+127.0.0.1 graph.facebook.com
+127.0.0.1 login.facebook.com
+127.0.0.1 s-static.ak.facebook.com
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 www.connect.facebook.net
+127.0.0.1 www.facebook.com
+127.0.0.1 www.fbcdn.com
+127.0.0.1 www.fbcdn.net
+127.0.0.1 www.graph.facebook.com
+127.0.0.1 www.login.facebook.com
+127.0.0.1 www.s-static.ak.facebook.com
+127.0.0.1 www.static.ak.connect.facebook.com
+127.0.0.1 www.static.ak.fbcdn.net
+127.0.0.1 code.facebook.com
+127.0.0.1 connect.facebook.com
+127.0.0.1 dev.vvv.facebook.com
+127.0.0.1 ct-m-fbx.fbsbx.com
+127.0.0.1 fb.me
+127.0.0.1 fb.com
+127.0.0.1 newsroom.fb.com
+127.0.0.1 investor.fb.com
+127.0.0.1 lithium.facebook.com
+127.0.0.1 lookaside.facebook.com
+127.0.0.1 mqtt-mini.facebook.com

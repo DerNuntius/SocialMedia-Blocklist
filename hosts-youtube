@@ -1,0 +1,20 @@
+# Title: Youtube hosts
+# Updated: November 2, 2021
+
+127.0.0.1 youtube.com
+127.0.0.1 m.youtube.com
+127.0.0.1 youtube.de
+127.0.0.1 m.youtube.de
+127.0.0.1 youtube.at
+127.0.0.1 m.youtube.at
+127.0.0.1 youtube.es
+127.0.0.1 m.youtube.es
+127.0.0.1 youtube.be
+127.0.0.1 m.youtube.be
+127.0.0.1 youtube.fr
+127.0.0.1 m.youtube.fr
+127.0.0.1 youtube.co.uk
+127.0.0.1 m.youtube.co.uk
+127.0.0.1 googlevideo.com
+127.0.0.1 manifest.googlevideo.com
+127.0.0.1 redirector.googlevideo.com
